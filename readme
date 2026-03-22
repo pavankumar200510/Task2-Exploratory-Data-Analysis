@@ -1,0 +1,169 @@
+# 📊 Student Performance Analysis (EDA & Business Intelligence)
+
+## 📌 Project Overview
+
+This project focuses on analyzing student performance data using **Exploratory Data Analysis (EDA)** and **SQL** to uncover patterns and insights that affect exam scores.
+
+The goal is to understand how factors like study hours, attendance, sleep, and socio-economic conditions influence student performance.
+
+---
+
+## 🎯 Objectives
+
+* Perform data cleaning and preprocessing
+* Conduct univariate and multivariate analysis
+* Answer business questions using SQL
+* Generate insights from data
+* Create a dashboard for visualization
+
+---
+
+## 🗂️ Dataset Description
+
+The dataset contains student-related information such as:
+
+* Student_ID
+* Gender
+* Hours_Studied
+* Attendance
+* Sleep_Hours
+* Parental_Education_Level
+* Internet_Access
+* School_Type
+* Exam_Score
+
+---
+
+## 🛠️ Tools & Technologies Used
+
+* Python (Pandas, NumPy, Matplotlib, Seaborn)
+* SQL (MySQL / SQLite)
+* Power BI / PowerPoint
+* Jupyter Notebook
+* GitHub
+
+---
+
+## 🔍 Exploratory Data Analysis (EDA)
+
+### ✔ Data Cleaning
+
+* Removed duplicates
+* Handled missing values
+* Converted data types
+
+### ✔ Univariate Analysis
+
+* Distribution of exam scores
+* Study hours analysis
+* Attendance trends
+
+### ✔ Multivariate Analysis
+
+* Study hours vs exam score
+* Attendance vs performance
+* Correlation heatmap
+
+---
+
+## ❓ Business Questions & SQL Analysis
+
+### 1. Does study time affect exam score?
+
+* Students with higher study hours tend to score better.
+
+### 2. Does attendance impact performance?
+
+* Higher attendance leads to better performance.
+
+### 3. Do sleep hours influence marks?
+
+* Moderate sleep improves exam scores.
+
+### 4. Does parental education matter?
+
+* Students with educated parents perform slightly better.
+
+### 5. Does internet access improve performance?
+
+* Internet access has a positive impact on scores.
+
+---
+
+## 📊 Key Insights
+
+* 📈 Study hours have a strong positive correlation with exam scores
+* 📊 Attendance significantly affects student performance
+* 💤 Balanced sleep improves outcomes
+* 🌐 Access to resources (internet) enhances learning
+
+---
+
+## 📉 Dashboard
+
+A dashboard was created to visualize:
+
+* KPI metrics (Average Score, Total Students, Max Score)
+* Study trends
+* Performance comparison
+* Pass vs Fail ratio
+
+---
+
+## 📁 Project Structure
+
+```
+Student-Performance-Analysis
+
+│
+├── dataset/
+│   └── dataofstudents.xlsx
+│
+├── notebooks/
+│   └── eda_analysis.ipynb
+│
+├── sql/
+│   └── queries.sql
+│
+├── dashboard/
+│   └── dashboard.pptx / .pbix
+│
+└── README.md
+```
+
+---
+
+## 🚀 How to Run the Project
+
+1. Clone the repository
+2. Open Jupyter Notebook
+3. Run `eda_analysis.ipynb`
+4. Execute SQL queries
+5. View dashboard
+
+---
+
+## 🎥 Project Demo
+
+A 5–7 minute video explaining:
+
+* Dataset
+* EDA process
+* SQL queries
+* Key insights
+
+---
+
+## 📌 Conclusion
+
+This project demonstrates how data analysis and business intelligence techniques can be used to identify key factors affecting student performance and support data-driven decision-making.
+
+---
+
+## 🙌 Author
+
+**Pavan Kumar**
+
+---
+
+## ⭐ If you found this useful, give it a star!
